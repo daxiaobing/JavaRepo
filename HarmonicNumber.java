@@ -10,7 +10,7 @@ public class HarmonicNumber{
 	for(double i=1; i<=userInput; i++)
 	{	 
 	  harmonic =harmonic+ (1/i);
-          System.out.println(harmonic);
         }
+	System.out.println(harmonic);
  } 
 }
